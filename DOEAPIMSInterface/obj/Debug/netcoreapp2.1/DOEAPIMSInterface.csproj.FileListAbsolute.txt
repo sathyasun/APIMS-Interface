@@ -1,0 +1,14 @@
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\bin\Debug\netcoreapp2.1\DOEAPIMSInterface.deps.json
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\bin\Debug\netcoreapp2.1\DOEAPIMSInterface.runtimeconfig.json
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\bin\Debug\netcoreapp2.1\DOEAPIMSInterface.runtimeconfig.dev.json
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\bin\Debug\netcoreapp2.1\DOEAPIMSInterface.dll
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\bin\Debug\netcoreapp2.1\DOEAPIMSInterface.pdb
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.csprojAssemblyReference.cache
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.RazorAssemblyInfo.cache
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.RazorAssemblyInfo.cs
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.AssemblyInfoInputs.cache
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.AssemblyInfo.cs
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.RazorTargetAssemblyInfo.cache
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.dll
+C:\Users\Sathya\Documents\Work\Freelance\Open Source Projects\DOEAPIMSInterface\DOEAPIMSInterface\DOEAPIMSInterface\obj\Debug\netcoreapp2.1\DOEAPIMSInterface.pdb
